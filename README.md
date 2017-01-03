@@ -1,4 +1,4 @@
-# A Collection of iPython Notebooks from Side Projects and Small One-Off Analyses
+# A Collection of iPython Notebooks from Side Projects and One-Off Analyses
 
 I often find myself getting carried away with data and models with no real goal of making a larger project out of the matter. This is where those types of projects will live. So far I have: 
 
