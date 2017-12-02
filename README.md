@@ -19,3 +19,6 @@ A notebook for data mining your Groupme. Requires you to get an API key. Find ou
 
 ### Malicious URL Classification
 Comparing the performance of three binary classifiers (logistic regression, random forest, and SVM) on the UCSD Malicious URL dataset (~1M rows, 3M features).
+
+### NBA Draft
+An analysis of the career value of NBA draft picks, draft-day trades, and of tanking on the league standings in order to improve a team's lottery odds.
